@@ -10,7 +10,9 @@ Whether it’s designing the structure of a physical space or architecting compl
 - 📫 How to reach me: [williamsayo44@gmail.com]
 - ⚡ Fun fact: I transitioned into software development from a background in architecture—bringing a strong design-thinking mindset into the way I build digital products
 
-## Languages and tools
+---
+
+### Languages and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -42,7 +44,7 @@ Whether it’s designing the structure of a physical space or architecting compl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
 </div>
 
-## Connect with me
+### Where to find me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ayo-williams/" target="_blank">
@@ -50,7 +52,7 @@ Whether it’s designing the structure of a physical space or architecting compl
   </a>
 </div>
 
-###
+#
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Williamsayo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
