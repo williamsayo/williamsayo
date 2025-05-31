@@ -1,18 +1,14 @@
 ## Hi 👋, I'm williams
 
-<!-- I'm a Full-Stack Developer with a background in architecture, bringing a design-thinking approach to software development. With a passion for building clean, scalable, and user-focused digital experiences, I specialize in developing end-to-end web applications, efficient backend systems, and RESTful APIs.
-
-Whether it’s designing the structure of a physical space or architecting complex software systems, I thrive on creating solutions that balance functionality, aesthetics, and long-term impact. -->
-
-- 🌱 I’m currently learning Machine Learning, and scalable system design
-- 👯 I’m looking to collaborate on full-stack applications and user-focused digital products
-- 🤝 I’m open to knowledge exchange around DevOps and cloud infrastructure
-- 📫 How to reach me: [williamsayo44@gmail.com]
-- ⚡ Fun fact: I transitioned into software development from a background in architecture—bringing a strong design-thinking mindset into the way I build digital products
+-   🌱 I’m currently learning Machine Learning, and scalable system design
+-   👯 I’m looking to collaborate on full-stack applications and user-focused digital products
+-   🤝 I’m open to knowledge exchange around DevOps and cloud infrastructure
+-   📫 How to reach me: williamsayo44@gmail.com
+-   ⚡ Fun fact: I transitioned into software development from a background in architecture—bringing a strong design-thinking mindset into the way I build digital products
 
 ---
 
-### Languages and tools
+### Languages and tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -44,7 +40,7 @@ Whether it’s designing the structure of a physical space or architecting compl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
 </div>
 
-### Where to find me
+### Where to find me:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ayo-williams/" target="_blank">
@@ -58,6 +54,14 @@ Whether it’s designing the structure of a physical space or architecting compl
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Williamsayo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Williamsayo&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
+<details>
+<summary><h3>A little bit about williams ayo</h3></summary>
+I'm a Full-Stack Developer with a background in architecture, bringing a design-thinking approach to software development. With a passion for building clean, scalable, and user-focused digital experiences, I specialize in developing end-to-end web applications, efficient backend systems, and RESTful APIs.
+
+Whether it’s designing the structure of a physical space or architecting complex software systems, I thrive on creating solutions that balance functionality, aesthetics, and long-term impact.
+
+</details>
 
 <!--
 **williamsayo/williamsayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
